@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### `~/stack`
+### `Stack`
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=flat-square&logo=gnubash&logoColor=4EAA25)
@@ -29,12 +29,7 @@
 
 <div align="center">
 
-### `~/stats`
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rotmayer24&show_icons=true&theme=dark&hide_border=true&title_color=4EAA25&icon_color=4EAA25&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotmayer24&layout=compact&theme=dark&hide_border=true&title_color=4EAA25&text_color=c9d1d9&bg_color=0d1117&langs_count=6&cache_seconds=1800" />
-
-</div>
+### `Stats`
 
 <div align="center">
 
@@ -43,40 +38,4 @@
 </div>
 
 ---
-
-<div align="center">
-
-### `~/trophies`
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rotmayer24&theme=onestar&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
-<div align="center">
-
-### `~/activity`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rotmayer24/Rotmayer24/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rotmayer24/Rotmayer24/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rotmayer24/Rotmayer24/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-```
-[rotmayer24@cachyos ~]$ uptime
- Always building. Always shipping. Open source by default.
-
-[rotmayer24@cachyos ~]$ █
-```
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4EAA25&height=60&section=footer" width="100%" />
