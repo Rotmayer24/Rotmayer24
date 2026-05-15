@@ -1,41 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4EAA25&height=120&section=header&text=Rotmayer24&fontSize=52&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Python%20%7C%20Django%20%7C%20Shell%20%7C%20Linux&descSize=16&descAlignY=85&descColor=c9d1d9" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4EAA25,100:0d1117&text=Rotmayer24&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20•%20Django%20•%20Linux%20•%20Neovim&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=4EAA25&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%24+whoami+%E2%86%92+rotmayer24;%24+uname+-a+%E2%86%92+CachyOS+%7C+Neovim+%7C+Terminal+Native" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-### `Stack`
-
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB)
-![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=flat-square&logo=gnubash&logoColor=4EAA25)
-![Django](https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=092E20)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=1572B6)
-
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=FCC624)
-![Neovim](https://img.shields.io/badge/Neovim-0a0a0a?style=flat-square&logo=neovim&logoColor=57A143)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=ffffff)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=800&color=4EAA25&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%24+whoami+%E2%86%92+Rotmayer24;%24+stack+%E2%86%92+python+django+shell;%24+editor+%E2%86%92+neovim" />
 
 </div>
 
----
 
 <div align="center">
 
-### `Stats`
+## `Stack`
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rotmayer24&theme=dark&hide_border=true&ring=4EAA25&fire=4EAA25&currStreakLabel=4EAA25&sideLabels=c9d1d9&dates=8b949e&stroke=4EAA25&currStreakNum=ffffff&sideNums=ffffff&background=0d1117" />
+<img src="https://skillicons.dev/icons?i=python,django,bash,linux,neovim,git,html,css&theme=dark" />
 
 </div>
 
----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4EAA25&height=60&section=footer" width="100%" />
+
+
+<div align="center">
+
+## `Streak`
+</div>
+<div align="center">
+<img width="95%" src="https://streak-stats.demolab.com?user=Rotmayer24&theme=github-dark&hide_border=true&background=0D1117&ring=4EAA25&fire=4EAA25&currStreakLabel=4EAA25&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:4EAA25" />
+</div>
