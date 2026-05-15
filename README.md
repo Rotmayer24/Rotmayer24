@@ -1,26 +1,8 @@
 <div align="center">
 
-```
-██████╗  ██████╗ ████████╗███╗   ███╗ █████╗ ██╗   ██╗███████╗██████╗ ██████╗ ██╗  ██╗
-██╔══██╗██╔═══██╗╚══██╔══╝████╗ ████║██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗╚════██╗██║  ██║
-██████╔╝██║   ██║   ██║   ██╔████╔██║███████║ ╚████╔╝ █████╗  ██████╔╝ █████╔╝███████║
-██╔══██╗██║   ██║   ██║   ██║╚██╔╝██║██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗██╔═══╝ ╚════██║
-██║  ██║╚██████╔╝   ██║   ██║ ╚═╝ ██║██║  ██║   ██║   ███████╗██║  ██║███████╗     ██║
-╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝     ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4EAA25&height=120&section=header&text=Rotmayer24&fontSize=52&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Python%20%7C%20Django%20%7C%20Shell%20%7C%20Linux&descSize=16&descAlignY=85&descColor=c9d1d9" width="100%" />
 
-</div>
-
-<div align="center">
-
-```bash
-$ whoami
-rotmayer24
-
-$ cat /etc/identity
-Python Developer | Shell Scripter | Django Engineer
-Linux Enthusiast | Open-Source Contributor | Terminal Native
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=4EAA25&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%24+whoami+%E2%86%92+rotmayer24;%24+uname+-a+%E2%86%92+CachyOS+%7C+Neovim+%7C+Terminal+Native" alt="Typing SVG" />
 
 </div>
 
@@ -37,7 +19,6 @@ Linux Enthusiast | Open-Source Contributor | Terminal Native
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=1572B6)
 
 ![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=FCC624)
-![CachyOS](https://img.shields.io/badge/CachyOS-0a0a0a?style=flat-square&logo=archlinux&logoColor=1793D1)
 ![Neovim](https://img.shields.io/badge/Neovim-0a0a0a?style=flat-square&logo=neovim&logoColor=57A143)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=ffffff)
