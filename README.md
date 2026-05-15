@@ -31,14 +31,14 @@
 
 ### `~/stats`
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rotmayer24&show_icons=true&theme=transparent&hide_border=true&title_color=4EAA25&icon_color=4EAA25&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotmayer24&layout=compact&theme=transparent&hide_border=true&title_color=4EAA25&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rotmayer24&show_icons=true&theme=dark&hide_border=true&title_color=4EAA25&icon_color=4EAA25&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotmayer24&layout=compact&theme=dark&hide_border=true&title_color=4EAA25&text_color=c9d1d9&bg_color=0d1117&langs_count=6&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rotmayer24&theme=transparent&hide_border=true&ring=4EAA25&fire=4EAA25&currStreakLabel=4EAA25&sideLabels=c9d1d9&dates=8b949e&stroke=4EAA25&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com?user=Rotmayer24&theme=dark&hide_border=true&ring=4EAA25&fire=4EAA25&currStreakLabel=4EAA25&sideLabels=c9d1d9&dates=8b949e&stroke=4EAA25&currStreakNum=ffffff&sideNums=ffffff&background=0d1117" />
 
 </div>
 
@@ -78,3 +78,5 @@
 ```
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4EAA25&height=60&section=footer" width="100%" />
